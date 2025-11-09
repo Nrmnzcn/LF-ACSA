@@ -24,6 +24,21 @@ This repository contains the **Python source codes**, **flowchart**, and **pseud
 
 
 
+### Workflow 
+
+The ACSA, as mentioned earlier, is an algorithm that simulates the functioning of the circulatory system through various control mechanisms. The algorithm can be illustrated below. 
+
+<div align="center">
+    <img src="https://github.com/Nrmnzcn/LF-ACSA/blob/main/flowchart.pdf" alt="flowchart" width="450" height="800">
+</div>
+
+
+
+### Psedocode
+<div align="center">
+    <img src="https://github.com/Nrmnzcn/LF-ACSA/blob/main/psedocode.pdf" alt="psedocode" width="700" height="500">
+</div>
+
 ### Publication
 
 You can find the full details of the algorithm in my publication:
@@ -32,6 +47,7 @@ You can find the full details of the algorithm in my publication:
 - **Authors**: Nermin Özcan, Handan Gürsoy Demir
 - **Journal**: AEÜ – International Journal of Electronics and Communications (Elsevier, SCI-Expanded, Q2)
 - **DOI/Link**: [10.1016/j.aeue.2025.156101](https://doi.org/10.1016/j.aeue.2025.156101)
+- **ZENODO**: [10.5281/zenodo.17238572](https://doi.org/10.5281/zenodo.17238572)
 
 
 
