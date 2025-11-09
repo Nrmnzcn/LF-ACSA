@@ -15,29 +15,13 @@ This repository contains the **Python source codes**, **flowchart**, and **pseud
 
 ### Key Features  
 
-- 🧠 **Bio-Inspired Framework:** Mimics neural–hormonal regulation of the human circulatory system.  
-- 🌀 **Levy Flight Integration:** Heavy-tailed step lengths for enhanced global search.  
-- 🔧 **PID Controller Optimization:** Minimizes the *Integral Time Absolute Error (ITAE)* criterion.  
-- 📊 **Benchmark Validation:** Tested on 23 classical functions and 12 CEC2022 problems.  
-- 🧩 **Robustness:** Verified under multiple DC motor uncertainty scenarios.  
-- 📈 **Superior Performance:** Achieved lowest ITAE (0.000414) and zero overshoot under nominal conditions.  
+- **Bio-Inspired Framework:** Mimics neural–hormonal regulation of the human circulatory system.  
+- **Levy Flight Integration:** Heavy-tailed step lengths for enhanced global search.  
+- **PID Controller Optimization:** Minimizes the *Integral Time Absolute Error (ITAE)* criterion.  
+- **Benchmark Validation:** Tested on 23 classical functions and 12 CEC2022 problems.  
+- **Robustness:** Verified under multiple DC motor uncertainty scenarios.  
+- **Superior Performance:** Achieved lowest ITAE (0.000414) and zero overshoot under nominal conditions.  
 
-
-
-### Workflow 
-
-The ACSA, as mentioned earlier, is an algorithm that simulates the functioning of the circulatory system through various control mechanisms. The algorithm can be illustrated below. 
-
-<div align="center">
-    <img src="https://github.com/Nrmnzcn/LF-ACSA/blob/main/flowchart.pdf" alt="flowchart" width="450" height="800">
-</div>
-
-
-
-### Psedocode
-<div align="center">
-    <img src="https://github.com/Nrmnzcn/LF-ACSA/blob/main/psedocode.pdf" alt="psedocode" width="700" height="500">
-</div>
 
 ### Publication
 
